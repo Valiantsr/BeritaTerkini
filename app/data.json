@@ -1,0 +1,11 @@
+{
+  "berita": [{
+    "type": "Kriminal"
+  }, 
+  {
+    "type": "Politik"
+  }, 
+  {
+    "type": "Lifestyle"
+  }]
+}
