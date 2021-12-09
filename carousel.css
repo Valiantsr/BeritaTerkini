@@ -1,0 +1,69 @@
+body{
+  background: #e5e5e5;
+}
+
+.card{
+    position: relative;
+  width: 344.74px;
+  height: 291.22px;
+  left: 10px;
+  top: 10px;
+  border-radius: 15px ;
+  
+  }
+  
+  
+  .u-blog-control{
+    position: absolute;
+    top: 50.78px;
+    left: 30%;
+  }
+  
+  
+  .card-title {
+    position: absolute;
+    top: 20.78px;
+    left: 30%;
+  }
+  
+  
+  .card-img-top {
+    position: absolute;
+    top: 15.78px;
+    left: 11%;
+    margin-left: -30px;
+    width: 60px !important;
+    height: 60px;
+    
+  }
+  
+  .card-text {
+    position: relative;
+    top: 70%;
+    text-decoration: bold solid #000000;
+  }
+
+  .card-img-down{
+    position: absolute;
+    border-radius:16px;
+  width: 300.91px;
+  height: 190.39px;
+  top: 80px;
+  left: 15px;
+}
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
+}
